@@ -366,7 +366,7 @@ function kata17(){
 
 console.log(kata17())
 
-//--------- TAREFA 17 ---------
+//--------- TAREFA 18 ---------
  
 function kata18(){
 
